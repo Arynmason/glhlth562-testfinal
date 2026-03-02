@@ -1,1 +1,1 @@
-# glhlth562-testfinal
+This is my GLHLTH 562 final project. # glhlth562-testfinal
